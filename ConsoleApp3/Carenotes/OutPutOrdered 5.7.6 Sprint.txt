@@ -1,0 +1,43 @@
+  <package id="AHC.Carenotes.Datagenerator.CNDataClassHelpers-deploy" version="1.1.0.111" targetFramework="net461" />
+  <package id="AHC.CareNotesCore" version="0.0.2.2143" targetFramework="net35" />
+  <package id="AHC.Server.EventStore.Install.Service" version="0.7.0.51651" />
+  <package id="Antlr" version="3.4.1.9004" targetFramework="net461" />
+  <package id="Carenotes.Legacy.ThirdParty" version="0.0.0.1" targetFramework="net461" />
+  <package id="Carenotes.Legacy.ThirdParty.DataVisualization" version="0.0.0.1" targetFramework="net461" />
+  <package id="Carenotes.Legacy.ThirdParty.Health" version="0.0.0.1" targetFramework="net461" />
+  <package id="Carenotes.Legacy.ThirdParty.Word" version="0.0.0.1" targetFramework="net461" />
+  <package id="Castle.Core" version="3.3.3" targetFramework="net461" />
+  <package id="Dapper" version="1.42" targetFramework="net35" />
+  <package id="Dapper" version="1.50.2" targetFramework="net461" />
+  <package id="log4net" version="2.0.5" targetFramework="net461" />
+  <package id="Microsoft.AspNet.Mvc" version="5.2.3" targetFramework="net461" />
+  <package id="Microsoft.AspNet.Razor" version="3.2.3" targetFramework="net461" />
+  <package id="Microsoft.AspNet.Web.Optimization" version="1.1.3" targetFramework="net461" />
+  <package id="Microsoft.AspNet.WebApi" version="5.2.3" targetFramework="net461" />
+  <package id="Microsoft.AspNet.WebApi.Client" version="5.2.3" targetFramework="net461" />
+  <package id="Microsoft.AspNet.WebApi.Core" version="5.2.3" targetFramework="net461" />
+  <package id="Microsoft.AspNet.WebApi.WebHost" version="5.2.3" targetFramework="net461" />
+  <package id="Microsoft.AspNet.WebPages" version="3.2.3" targetFramework="net461" />
+  <package id="Microsoft.Net.Compilers" version="1.3.2" targetFramework="net461" developmentDependency="true" />
+  <package id="Microsoft.Web.Infrastructure" version="1.0.0.0" targetFramework="net461" />
+  <package id="Moq" version="4.5.21" targetFramework="net461" />
+  <package id="Moq" version="4.5.23" targetFramework="net461" />
+  <package id="MSBuild.Microsoft.VisualStudio.Web.targets" version="14.0.0.3" targetFramework="net461" />
+  <package id="Newtonsoft.Json" version="6.0.4" targetFramework="net461" />
+  <package id="Ninject" version="2.2.1.4" targetFramework="net35" />
+  <package id="Ninject" version="3.2.2.0" targetFramework="net461" />
+  <package id="NUnit" version="3.4.1" targetFramework="net35" requireReinstallation="true" />
+  <package id="NUnit" version="3.4.1" targetFramework="net461" />
+  <package id="NUnit" version="3.5.0" targetFramework="net461" />
+  <package id="SimpleInjector" version="3.2.0" targetFramework="net461" />
+  <package id="SimpleInjector" version="3.2.5" targetFramework="net461" />
+  <package id="SimpleInjector" version="4.0.8" targetFramework="net461" />
+  <package id="SimpleInjector.Extensions.ExecutionContextScoping" version="3.2.0" targetFramework="net461" />
+  <package id="SimpleInjector.Integration.Web" version="4.0.8" targetFramework="net461" />
+  <package id="SimpleInjector.Integration.Web.Mvc" version="4.0.8" targetFramework="net461" />
+  <package id="SimpleInjector.Integration.WebApi" version="3.2.0" targetFramework="net461" />
+  <package id="SimpleInjector.Integration.WebApi" version="4.0.8" targetFramework="net461" />
+  <package id="Strand.Carenotes.CNCore" version="0.0.2.2143" targetFramework="net35" />
+  <package id="Strand.Carenotes.CNCoreDataClasses" version="0.0.2.2143" targetFramework="net35" />
+  <package id="Strand.Carenotes.CNCoreSysAdmin" version="0.0.2.2143" targetFramework="net35" />
+  <package id="WebGrease" version="1.5.2" targetFramework="net461" />

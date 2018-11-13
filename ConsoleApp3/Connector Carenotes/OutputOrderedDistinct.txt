@@ -1,0 +1,26 @@
+  <package id="AHC.Connector.CareNotes.AcceptanceTestingDatabase" version="0.0.0.0" />
+  <package id="AHC.SOA.Patient.Bus.Legacy.Messages" version="0.0.16.51508" targetFramework="net45" />
+  <package id="AHC.SOA.Patient.Bus.Legacy.Messages" version="0.9.0.51535" targetFramework="net45" />
+  <package id="Dapper" version="1.50.2" targetFramework="net45" />
+  <package id="DotNetZip" version="1.9.3" targetFramework="net45" />
+  <package id="EntityFramework" version="6.1.1" targetFramework="net45" />
+  <package id="Iesi.Collections" version="3.3.3.4001" targetFramework="net45" />
+  <package id="log4net" version="2.0.3" targetFramework="net45" />
+  <package id="Moq" version="4.2.1409.1722" targetFramework="net45" />
+  <package id="NHibernate" version="3.3.3.4001" targetFramework="net45" />
+  <package id="NServiceBus" version="4.3.0" targetFramework="net45" />
+  <package id="NServiceBus" version="4.6.1" targetFramework="net45" />
+  <package id="NServiceBus" version="5.0.0" targetFramework="net45" />
+  <package id="NServiceBus.Host" version="4.6.1" targetFramework="net45" />
+  <package id="NServiceBus.Interfaces" version="4.3.0" targetFramework="net45" />
+  <package id="NServiceBus.Interfaces" version="4.6.1" targetFramework="net45" />
+  <package id="NServiceBus.NHibernate" version="4.5.0" targetFramework="net45" />
+  <package id="NServiceBus.StructureMap" version="4.3.0" targetFramework="net45" />
+  <package id="NServiceBus.StructureMap" version="4.6.1" targetFramework="net45" />
+  <package id="NUnit" version="2.6.3" targetFramework="net45" />
+  <package id="structuremap" version="2.6.4.1" targetFramework="net45" />
+  <package id="structuremap" version="3.1.2.138" targetFramework="net45" />
+  <package id="Topshelf" version="3.1.4" targetFramework="net45" />
+</packages>
+<?xml version="1.0" encoding="utf-8"?>
+<packages>
